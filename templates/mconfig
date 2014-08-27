@@ -1,0 +1,29 @@
+# -*- Makefile -*-
+#
+<%= @account %>
+<%= @chaos %> 
+<%= @checksum %> 
+<%= @delude %> 
+<%= @dhcpmac %> 
+<%= @dnetmap %> 
+<%= @echo %> 
+<%= @ipmark %> 
+<%= @logmark %> 
+<%= @rawnat %> 
+<%= @steal %> 
+<%= @sysrq %> 
+<%= @tarpit %> 
+<%= @tee %> 
+<%= @condition %> 
+<%= @fuzzy %> 
+<%= @geoip %> 
+<%= @gradm %> 
+<%= @iface %> 
+<%= @ipp2p %> 
+<%= @ipset6 %> 
+<%= @ipv4options %> 
+<%= @lenght2 %> 
+<%= @lscan %> 
+<%= @pknock %> 
+<%= @psd %> 
+<%= @quota2 %> 

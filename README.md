@@ -15,7 +15,7 @@ class { 'xtables':
 	xtables_version => '1.41',
 	}
 ```
-The modules can be disabled and enabled using the variables from  ```mconfig```
+The xtables modules can be disabled and enabled using the variables from  ```mconfig```
 Disable a module by adding on the main class:
 ```
 rawnat         = '#build_RAWNAT=m',

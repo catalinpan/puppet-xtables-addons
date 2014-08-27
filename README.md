@@ -31,5 +31,5 @@ Use the autoupdate script only if you fully manage the cronjobs on your server w
         include xtables::update
 ```
 ## Dependencies
-'maestrodev/wget', '>= 1.3.2'
-'yguenane/repoforge', '>=0.2.0'
+```'maestrodev/wget', '>= 1.3.2'```
+```'yguenane/repoforge', '>=0.2.0'```
